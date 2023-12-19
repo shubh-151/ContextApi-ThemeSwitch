@@ -1,6 +1,7 @@
-# React + Vite
+# Click on the link below to see the project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+https://context-api-theme-switch.vercel.app/
 
 Currently, two official plugins are available:
 
